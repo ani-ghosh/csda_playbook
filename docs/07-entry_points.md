@@ -1,0 +1,80 @@
+# Activity V: Identifying digital adaptation entry points 
+
+The previous section identifies context-specific and best-bet solution spaces for each priority value chain. Finally, the last stage of the process helps prioritize specific technical solutions (within the wider solution space) to support digital adaptation. This comprises three major steps: (1) for each priority value chain, the most relevant solution space is identified; (2) the user reviews existing solutions within that solution space and develops a preliminary list of locally viable options; and (3) a consultative process among stakeholders from the agricultural and telecommunications sector will identify a selection of priority solutions that best match local needs, opportunities, and preferences. In the course of this deliberation, key needs for modification and adaptation of proposed solutions, and main needs for investment and policy reform are also identified.
+
+**Activity V Type:** Group exercise, information gathering, cost analysis, and reporting
+
+**Activity V Product:** Concrete, actionable recommendations for digital adaptation with line-of-sight analysis connecting adaptation challenge to solution to outcome
+
+### Step 1: Using user stories to identify the focal solution space(s){-}
+This step considers each of the two to three priority value chains and evaluates context-specific enabling environments for the highly-ranked solution spaces. The heatmap from the previous PPPEEE analysis (Activity IV, Step 3) indicates the strengths and weaknesses regarding the different solution spaces in the country or region of interest. Again, it is strongly recommended to include the farmer’s perspective to ensure that proposed digital solutions for CSA can be tailored to specific farmer adaptation needs. 
+
+Each group of stakeholders working on the prioritization of solution spaces for each value chain should work on real case scenarios and develop one or more user stories detailing how specific digital solutions could help farmers become more resilient to climate hazards and improve overall agricultural outcomes. User stories are short, concise statements about what a person does, a goal (i.e., the problem to which they are responding), and why (i.e., what is the outcome). See this link on [creating user stories](https://www.mountaingoatsoftware.com/agile/user-stories) for more information.
+
+For example, consider a region focusing on fresh vegetable production that is increasingly challenged by a lack of water for irrigation. Farmers have already started implementing adaptation measures, combining mulching with drip irrigation. Solutions for drip irrigations have been promoted by input providers, but farmers still do not have the knowledge to set up an optimized system. The digital solution space should focus on water efficiency and irrigation, using digital solutions for knowledge transfer and training—in addition to supplementary equipment for drip irrigation with smart apps that can guide the farmers in terms of water application and timing of irrigation events based on the plant’s growth stage.
+In the above example, the user stories might include:
+
+* As a farmer, I want to improve my irrigation system efficiency to make better use of limited water supplies.
+
+* As an irrigation solutions provider, I want to provide farmers with planning tools to design their irrigation systems so that I can deliver tailored solutions that meet their needs as efficiently as possible.
+
+* As a local watershed committee, we want to provide farmers with up-to-date information on seasonal climate and weather related to their crops to help them make better planning and water management decisions. 
+
+From the above example, we see an overlap in at least two solution spaces—namely water management, and weather and climate—with the potential for several different digital solutions, including irrigation planning tools, weather and climate forecasts, and localized, crop-specific information resources. With these user stories, specific CSDA solutions can be considered.
+
+### Step 2: Crosswalk user stories with existing solutions{-}
+To distil a set of locally viable solutions from within the identified solution space(s), the next step is to review documented examples of digital adaptation in online databases. The objective now is to identify a set of three to five promising and relevant solutions through a thorough analysis of existing examples. Useful resources that can be filtered by solution space and value chain include:
+
+* The Digital Agri Hub dashboard (https://digitalagrihub.org/en/web/guest/dashboard)
+
+* Agriculture in the Digital Age (https://agricultureinthedigitalage.org/explore-data/)
+
+* GSMA’s (Global System for Mobile communications Association) AgriTech Deployment Tracker (https://www.gsma.com/mobilefordevelopment/m4d-tracker/magri-deployment-tracker/)
+
+* CGIAR Big Data Platforms Evidence Clearing House (https://bigdata.cgiar.org/evidence-clearing-house/) 
+
+* Sprout Open Content Platform (https://sproutopencontent.com/)
+
+* Earlier Mercy Corps AgriFin work on Digital CSA (https://www.mercycorpsagrifin.org/2020/01/10/digital-climate-smart-agriculture/)
+
+These online resources include information on (1) fully functional, commercial digital adaptation solutions that are relatively simple to replicate or scale to a new context; (2) previously implemented services that had worked well but had limited funding horizons; and (3) proof-of-concept studies that document a solution’s potential. 
+
+In screening these documents, strategy development participants should keep in mind that the goal is to identify digital adaptation options that are useful and viable in the target context—i.e., options address the adaptation needs and priorities outlined in Activity III. The set of solutions also needs to align with the ambitions of policymakers and industry representatives to foster capital investment and sustain the resources needed to develop new solutions and support the growth of operational and sustainable business models over time. 
+The output of this step for each solution and value chain is a short “CSDA Solution Specification” document of no more than one to two pages describing each specific solution and its rationale, including:
+
+* How the solution responds to identified farmer needs and demand
+
+* How the solution fits with the current policy environment
+* Documented impacts on farmer livelihoods, return on investment, and cost-benefit estimates
+* Required investments, partnerships, policy interventions for implementation, and long-term sustainability in the target context
+* Areas of uncertainty and potential barriers to implementation
+
+### Step 3: Preliminary cost estimation for CSDA solutions{-}
+Perhaps one of the biggest challenges in initiating CSDA solutions relates to the understanding of implementation costs. The understanding gained through each of the proceeding activities supports the clear articulation of a line of sight between adaptation challenges, potential solutions, and desired outcomes. The previous activities also generate substantial information that can support a preliminary cost estimation process.
+
+To support the development of a preliminary understanding of implementation costs, we borrow from recent work developed by the CGIAR that uses vetted probabilistic approaches for assessing the performance of agricultural research (see [Rosenstock et al., 2021](https://cgspace.cgiar.org/handle/10568/117725)). Based on the approach and figures presented in the aforementioned report, we include a simple rubric for establishing the cost of implementation based on an assessment of the overall number of expected beneficiaries and a characterization of the implementation environment. The document entitled “Action 5_3 CostEstimate.xlsx” provided with the playbook supports this calculation. For the purpose of this calculation, users will be asked to:
+
+1)	Approximate the total number of beneficiaries
+2)	Weight the cost per beneficiary values based on the PPPEEE analysis
+3)	Provide a characterization of general uncertainty regarding the estimates for #1 and #2
+
+Two results are obtained from this calculation: the first is a simple estimation of project cost based on the number of beneficiaries and the user weightings; the second is a statistical distribution of project costs considering differing cost per beneficiary estimates from the literature, and a probability distribution based on the uncertainty estimates provided in #3. As mentioned, these are to be considered very rough estimates and should be used as a starting point for more detailed cost estimation with potential project partners.
+
+### Step 4: Consultative process to define implementation roadmap{-}
+The final step in this playbook is to start a consultative process to evaluate a potential roadmap for the implementation of one or more specific CSDA solution development activities. This process will vary from context to context, from national to regional initiatives, and from more targeted to more general investments (e.g., investments focused on specific solutions or more general digital infrastructure, respectively). 
+There are many approaches to identifying investment roadmaps, and like the solutions themselves, these vary from targeted plans to overall national strategies. At a minimum, we recommend the development of a strategic plan that includes multiple components:
+
+* Development of a stakeholder-driven “coalition of the willing”
+* Assessment of stakeholder willingness to adopt new business models to support digital solutions for their corresponding value chains 
+* Evaluation of the readiness of agribusiness actors to support implementation and long-term sustainable business models
+* Understanding and further development of farmer capacity to effectively select and use CSDA-oriented solutions
+* Definition of short- and long-term ownership and institutional partnerships for successful implementation
+* Co-development of a five-year roadmap for each solution space and value chain and/or an overall set of planned activities
+* Implementation planning and timeline development with measurable milestones.
+* A buy-in and commitment process with key stakeholder groups
+
+The implementation roadmap will be a living document to guide project implementation over time and serve as a communication tool for stakeholders, investors, and researchers. 
+
+
+
+

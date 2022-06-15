@@ -1,0 +1,46 @@
+# Activity IV: Identification of Viable Solution Spaces
+
+Solution spaces are the relevant categories of CSDA approaches. For example, a seasonal cropping calendar and projections regarding seasonal precipitation are two CSDA solutions that are easily categorized into a “weather and climate” solution space. Understanding the most relevant solution space for each value chain and the corresponding basis for its prioritization will help identify which digital technologies will best support CSA in a particular national or regional context. 
+
+A step-by-step participatory process should be conducted with a large group of key stakeholders in the countries and regions of interest. This activity includes several exercises that can, for time efficiency, fit into a one-day workshop with twenty to forty stakeholders drawn from the agriculture and extension, climate adaptation, and digital agriculture specializations. These stakeholders should be selected to ensure representation from donor agencies, local and international non-governmental organizations, academia, research centers, and the public and private sector, including both start-ups as well as larger agriculture-related companies. In order to have an inclusive process, it is strongly recommended to include representatives from farmer organizations or producer community leaders, as well as stakeholders along the value chain, including input supplies and post-harvest and the processing industry. With the combined contribution of a diverse group of stakeholders, the priority solution spaces will best fit the needs of the key actors involved in the value chains in question. 
+
+**Activity IV Type:** Group exercise
+
+**Activity IV Product:** Systematic assessment of options for digital solutions for CSA relative to priority value chains
+
+### Step 1: Evaluation of solution spaces{-}
+This first group exercise aims to refine a list of potential approaches and uses of digital solutions for agriculture within a national context.
+The process presented here builds on the previous step and considers the local adaptation challenges for prioritized value chains. Stakeholders are asked to break into a set of six pre-defined groups linked to “solution spaces” (i.e., water management, livestock, agronomic advice, market information, digital financial services, and weather and climate) based on both expertise and general interest. The solution spaces serve as broad-brush categories of climate adaptation strategies and collect different examples of digital solutions that have been implemented to support a particular set of adaptation needs. Participants are asked to evaluate the range of digital approaches presented in each solution space in relation to the specific CSA needs identified in previous steps. In turn, these potential options can be compared to a long list of viable digital solutions (see annex material).
+One or more digital technologies (e.g., interactive voice response, applications, databases, analytics, etc.) are linked to each of the solution spaces in a manner consistent with current and near-future “state-of-the-art” approaches observed throughout the African continent. This is a living list that will be updated periodically. As such, the list serves as a benchmark set of technologies when examining the national panorama and can help guide new digital strategies based on approaches that have worked in other contexts. 
+In the participatory session, each group of experts shall be asked to reflect on whether the cluster of solutions makes sense (in general terms and relative to the priority value chains), if there are any major technology-based adaptation approaches missing from the list, and if the digital technologies are consistent with the potential adaptation approaches within a national context. See annex for supporting information.
+Through group discussion and plenary presentations, the experts are asked to develop consensus around the most relevant solution spaces and specific applications therein relative to the priority value chains. In turn, the solution spaces are then evaluated for general readiness.
+
+### Step 2: Evaluating implementation readiness using the PPPEEE (Progress, Policy, Potential, Efficiency, Equity, and Environment) framework{-}
+An assessment of candidate solutions for CSDA requires understanding the overall readiness of the national or regional policy framework and infrastructure to implement the solution, as well as the potential impact and relevance of the solution within the area of interest.
+
+We provide a template to support this assessment based on a methodology developed by the Alliance of Bioversity International and International Center for Tropical Agriculture (CIAT), the FAO, and the World Bank Group in 2019. This methodology has also been used in assessing digital technologies for agriculture in the [digital agriculture country profile series](https://www.worldbank.org/en/topic/agriculture/publication/digital-agricultural-profiles-for-argentina-kenya-turkey-and-viet-nam) (2019-2021). While the assessment can be conducted as a survey or during an interview, the preferred approach is to implement a second session of breakout groups in the one-day workshop mentioned in the previous exercise. The full list of questions that can be used for the PPPEEE analysis is provided in the supporting annex (see Section 9). The pillars of the PPPEEE assessment are qualitatively assessed using the following dimensions:
+
+- **Progress** is characterized by three aspects: (1) the general technological maturity and readiness of solution spaces through their current degree of development (from the research and development phase to a country-wide scale); (2) the use and uptake expressed in terms of a percentage of the total targeted group; and (3) the profitability and financial sustainability of the current business model.
+- **Policy** evaluates the policy and enabling environment around the solution space by quantifying three aspects, namely, the degrees to which (1) policy, (2) governmental programs, and (3) public investments enable further development, adoption, and impact of potential CSDA solutions.
+- **Potential impact** is a first-pass approach to estimate the potential of the solution space to improve outcomes in the agricultural sector by looking at (1) the expected uptake as a percentage of the total targeted group, and (2) the expected return on investments over the next decade.
+- The **Efficiency** scale intends to capture the extent to which each solution space can improve the effectiveness of agriculture and food systems in terms of returns to labor, use of inputs, yield, transport costs, and overall reduction in transaction costs.
+- **Equity** addresses the degree to which the solution space supports improving access to relevant information and services, particularly through greater inclusion and participation of youth, women, and marginalized groups.
+- Supporting **Environment** qualifies the extent to which the solution space and corresponding technologies support environmental sustainability through waste reduction, greenhouse gas emissions reduction, improved natural resource use efficiency, and related approaches.
+
+The evaluation of the above categories is a participatory process and semi-qualitative in the sense that it solicits expert opinion based on local knowledge. In turn, this information feeds into the next step of the digital solutions strategy development process. 
+
+### Step 3: Ranking of priority solution spaces{-}
+The PPPEEE analysis in Step 2 results in a numerical score for each of the evaluation categories. These numbers, ranging from 1 to 5 (where 5 represents a “best case scenario”) can then be used to help differentiate and even rank investment options. 
+The PPP section of the evaluation can be grouped under Progress, Policy, and Potential, each divided over two to three indicators, as shown in the example Figure 4 with a subset of four of the six solution spaces. It ranks the strength of each solution space relative to the national context and chosen value chains. 
+
+||**Progress**|**Policy**|**Potential**|**EEE**|
+| :- | :-: | :-: | :-: | :-: |
+|**Digital service category**|Stage|Uptake|Profitability|Supportive Policy|Government supportive programs|Investment|Expected uptake|Expected return on Investments|Efficiency|Equity|Environment|
+|Digital Financial Services|5|2|2|4|3|3|4|4|3|4|2|
+|Water & Irrigation|5|2|1|3|3|5|5|4|5|5|5|
+|Livestock knowledge and information|4|2|2|3|3|3|4|3|3|2|4|
+|Weather & Climate|4|2|1|1|2|2|3|3|5|5|5|
+
+**Figure 4:** Example of heatmap PPPEEE analysis. Note that in this example derived from recent work in Kenya, only four of the six solution spaces are shown. 
+
+In addition to the quantification of digital adaptation technologies, it is also important to capture the reasoning behind the grading of the PPPEEE analysis. This information has multiple applications and can be used in several sections of the final report as it relates to digital infrastructure, the current use of digital technologies, enabling environments, the demand and supply of digital technologies, and negative and positive effects on equity and the environment. 

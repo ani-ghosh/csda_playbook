@@ -1,0 +1,24 @@
+--- 
+title: "Playbook for Identifying and Selecting Solutions for Climate-Smart Digital Agriculture in Africa"
+author: "Steven D. Prager, Wietske Kropff, Jonathan Steinke, Berta Ortiz, Lidya Tesfaye, Sintayehu Alemayehu, Julian Ramirez-Villegas, Todd Rosenstock, Aniruddha Ghosh, Anton Eitzinger, Shalika Vayas, Daniel Jimenez, and Evan Girvetz"
+# date: "2022-06-16"
+site: bookdown::bookdown_site
+documentclass: book
+# bibliography: [book.bib, packages.bib]
+# description: |
+
+---
+
+# Introduction {-}
+
+The Playbook is prepared by [**The Alliance of Bioversity and CIAT**](https://alliancebioversityciat.org/) with the support of [**The Global Center on Adaptation**](https://gca.org/) and the [**African Development Bank**](https://www.afdb.org/en).
+
+This is the **version 1.0** of the playbook with the idea that the contents will be updated regularly.
+
+<a href="https://alliancebioversityciat.org/"><img src="abc_logo.png" width="180" height="92" align="left" hspace="40" /></a>
+
+<a href="https://gca.org/"><img src="gca_logo.png" width="180" height="70" align="left" hspace="40" /></a>
+
+<a href="https://afdb.org/en"><img src="afdb_logo.png" width="180" height="92" align="left" /></a>
+
+
