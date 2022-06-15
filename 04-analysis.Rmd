@@ -1,0 +1,33 @@
+# Activity II: Analysis of Climate Change and Hazards
+
+The second stage in understanding a national or regional context considers the imminent biophysical challenges. The characterization of potential impacts associated with climate change and related hazards provides insight into the adaptation challenges that one may expect to face. 
+Climatic risks are typically analyzed based on the risk framework from the Intergovernmental Panel on Climate Change ([IPCC](https://www.ipcc.ch/report/managing-the-risks-of-extreme-events-and-disasters-to-advance-climate-change-adaptation/)). This framework describes three key components of risk, specifically hazards, exposure, and vulnerability. Hazards address different types of events, including:
+
+* Increases in climate variability
+
+* Changes in temperature and precipitation patterns and extremes
+
+* Consequence of changes in relation to droughts, floods, and combined events
+
+While local experts will typically have a well-developed anecdotal understanding of climate-related hazards, it is also useful to systematically characterize these hazards. Ideally, this should be done in a replicable manner based on a current understanding of the scientific literature.
+
+
+**Activity II Type**: Geospatial Analysis
+
+**Activity II Product**: A description, map, and graphs characterizing the projected impacts of climate hazards on the agricultural sector, and the corresponding social and economic consequences.
+
+### Step 1: Generate Relevant Hazard Maps{-}
+In the supporting material provided with this playbook, we include an early release of the soon-to-be-published “Composite Hazards Dataset.” Built based on a variety of data layers appearing in the also soon-to-be-released “Adaptation Atlas” for Africa, this dataset summarizes the predominant hazards (or combinations thereof) at the pixel level for the entire continent. The Composite Hazards Dataset includes information on temperature extremes (thermal stress), climate variability, flooding, and droughts. 
+The Composite Hazards Dataset shows the geographic distribution of both the type and severity of the abovementioned hazards. The overall exposure of the agricultural system will depend on the predominant type and severity of hazards relevant to the value chains present in the geographic areas under consideration. 
+In this step, the objective is to gain a greater understanding of the distribution of specific hazards in relation to their corresponding production systems. The precise steps to summarize composite hazards relative to value chains will depend on the expertise and analytical skills of those involved in the implementation of the activities described in this playbook. The recommended steps include:
+
+* Geographically subset the Composite Hazards Dataset to the region or country of interest.
+
+* Statistically summarize the percentage or net area of each hazard type present in the geographic area of interest.
+
+* Produce a summary map and summary graphs characterizing the geographic distribution of hazards in the area of interest. 
+
+* Use locally relevant areal units to further summarize the exposure of specific systems to the hazards; teams with advanced geospatial analysis skills and access to ancillary datasets (e.g., cropping area, farming systems, livestock zones, agroecological regions, etc.) may wish to achieve a greater depth of analysis in this manner—to this end, we have included the full scripts and datasets required to generate the composite hazards map. 
+
+Once the geographic distribution of hazards is generally understood, the next step is to do a deeper dive and build a greater understanding of how the specific hazards will influence the most important value chains and typical farming systems in the country or region under consideration. This is especially important as some regions and farmers may be better adapted to different hazards than others. With the information generated in this activity, the following activity can then take into account both the farmer and value chain perspectives as well as the corresponding biophysical hazards.
+

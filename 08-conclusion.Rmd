@@ -1,0 +1,4 @@
+# Conclusion
+
+The purpose of this playbook is to present a replicable process to support the sustainable implementation of new digital solutions in support of CSDA. Many adaptation challenges lend themselves to digital solutions, but few one-size-fits-all solutions work in every context. 
+This playbook provides users with a structured approach to document needs and present solutions in a transparent and traceable manner within a stakeholder-driven process. 

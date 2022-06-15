@@ -1,0 +1,48 @@
+# Activity I: Understanding the National Context
+
+The first step in defining the strategies to implement CSDA is to characterize and understand the national context. Characterizing the national context begins with general issues and progresses to digital readiness and progress related to the incorporation of CSA in the national agenda. The objective is to provide insights regarding opportunities that are potentially “low hanging fruit,” as well as identify areas where broader investment may be required in advance of more targeted, advanced, or tailored strategies.
+
+### Importance of understanding the macro context{-}
+Understanding national context requires a general understanding of the agricultural sector as well as the socioeconomic situation of farmers and other agricultural stakeholders in a country. In the case of (political) instability or recent natural or man-made disasters, it is important to take note of this, as national context (e.g., resource availability, access to expertise, current skill levels) is often a determinant of the infrastructure and investment landscape. This is also very important for decisions on developing, building, and scaling digital technologies in a specific country or area.
+
+### Digital readiness assessment{-}
+In addition to the macro context, specific indicators for general digital readiness—and especially existing digital-CSA linkages—foster an initial understanding of the national context for CSDA. Factors and indicators that provide insight regarding the level of digitalization in a country and that should be considered in establishing the national context include:
+
+* The infrastructure network, including electricity and telecommunications coverage. Gaps in connectivity lower the effective use of the mobile phone network. Low levels of electrification may result in less inclusion, as populations with limited access to electricity are less likely to own or use mobile devices. 
+
+* Poverty affects access to digital technology; although prices of devices have decreased in recent years, smallholder farmers are often unable to afford modern phones. High mobile data prices represent another related price barrier in bringing digital services to poorer populations. 
+
+* Low digital literacy lowers net usage and effective usage of digital services. Less digitally literate populations are less able to effectively find, evaluate, and communicate information through digital tools. Digital literacy can be increased through capacity building and accumulated experience. 
+
+* Specific indicators regarding gendered access to technology and other related resources are vital. Women tend to have lower access to digital devices than men, their digital literacy skills tend to be lower, and social norms around the use of digital tools may discourage women from engaging with them. Lower incomes among women also lead to lower spending on digital devices or mobile data.
+
+A diverse set of indicators are available to describe these characteristics at the macro level. Compiling an overview of national context and digital readiness will help the users of this guide understand the current situation, and point to priorities that need to be addressed in order to ensure the success of digital interventions for CSA.
+
+**Activity I Type:** Desktop research 
+
+**Activity I Product**: A table of macro-level country indicators, with a focus on digital readiness, and an analysis of the likely enabling and hindering factors for digital solutions to reach scale 
+
+
+
+
+### Step 1: Identify and synthesize relevant indicators{-} 
+The goal of this step is to identify and select different indicators with relevance to the national context and the criteria defined above. In assessing the values of key indicators, the aim is to identify where there may be issues that impede or enable the implementation and scaling up of new digital solutions. For example, countries with a very low electricity coverage are likely to also have limited network coverage, which will limit the potential impact of interventions that require the use of a mobile phone. In this case, the electricity infrastructure gap would need to be addressed before implementing mobile phone-based solutions on a regional scale. 
+In the annex material, we provide a list of relevant indicators that characterize the country’s context for 1) the agricultural sector and 2) the state of digitalization. These represent a starting point, but the use of additional indicators, especially locally developed indicators, is strongly encouraged. The sources for all indicators and minimal corresponding metadata should be documented. 
+To improve the relevance of the gathered information, our recommendation is to use either the most recent values or the average value of the last five years when such data are available.
+
+### Step 2: Review of general enabling environment{-}
+CSDA solutions are inherently context specific. The tools and services that will serve the needs of targeted farmers or other users are determined by numerous social and biophysical factors. In addition, however, digital development takes place within regional, national, and sub-national policy environments and economies. A thorough understanding of existing conditions, including barriers and enablers of digital development, will help in defining realistic, locally feasible pathways to CSDA. The purpose of this step is to *systematically characterize the enabling environment* in order to support later strategy development. 
+To inform further decision-making along with the use of this playbook, two dimensions of the general enabling environment for CSDA are key: 
+
+* The local availability of different types of capital (human, technical, financial, etc.), which influences the ease of implementing new digital tools and services; of particular importance are intellectual capital (skilled IT staff) and financial capital (e.g., ease of access to credit for new digital agriculture initiatives). 
+
+* The level of support and leadership provided by public authorities, such as the ministries of agriculture in the countries under consideration, especially in areas related to CSA. This support can manifest itself, for example, through the establishment of a coherent, auditable digital agriculture strategy across ministries, the existence of a government unit specifically dedicated to leading digital agriculture development, or favorable policies around issues such as mobile money or public-private partnerships. 
+To assess the enabling environment for the region of interest, a combination of internet research and communication and consultation with local entrepreneurs and agricultural experts or policymakers is most effective. The combination of indicators and qualitative information is then reviewed and synthesized. Again, relevant examples are provided in the annex material (See Section 9) but other locally important aspects may need to be considered according to the local context. 
+
+### Step 3: Summarize indicators and values in a table{-}
+The final product of Activity I is the table of macro-level country indicators, with a focus on digital readiness, and an analysis of the likely enabling and hindering factors for digital solutions to reach scale.
+While in all cases the summary should be comprehensive and cover both indicators and contextual analysis, the depth of the analysis will vary as a function of invested time and available data. If available data and expertise do not permit a comprehensive analysis, this is itself an important piece of information regarding readiness for CSDA implementation. 
+
+
+
+
